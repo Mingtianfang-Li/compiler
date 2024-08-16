@@ -1,0 +1,10 @@
+# Ignore CLion IDE files
+.idea/
+*.iml
+cmake-build-debug/
+cmake-build-release/
+cmake-build-*/      # Ignore all cmake build directories
+*.ipr
+*.iws
+.DS_Store
+
