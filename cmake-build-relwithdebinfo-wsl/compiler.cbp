@@ -85,6 +85,9 @@
 		<Unit filename="/mnt/c/Users/Ree Li/Desktop/NEU/compiler/src/main.cpp">
 			<Option target="compiler"/>
 		</Unit>
+		<Unit filename="/mnt/c/Users/Ree Li/Desktop/NEU/compiler/src/tokenization.hpp">
+			<Option target="compiler"/>
+		</Unit>
 		<Unit filename="/mnt/c/Users/Ree Li/Desktop/NEU/compiler/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
