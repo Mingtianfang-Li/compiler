@@ -95,7 +95,7 @@ int main(int argc, char* argv[]) {
 
 
     {
-        std::fstream file("../out.asm", std::ios::out);
+        std::fstream file("out.asm", std::ios::out);
         file << tokens_to_asm(tokens);
     }
 
